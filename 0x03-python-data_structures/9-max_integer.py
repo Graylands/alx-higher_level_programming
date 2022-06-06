@@ -12,8 +12,3 @@ def max_integer(my_list=[]):
             max_int = my_list[i]
 
     return (max_int)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-S
