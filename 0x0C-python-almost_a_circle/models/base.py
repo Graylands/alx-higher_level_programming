@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 This program define a Base class for other classes
